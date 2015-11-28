@@ -14,5 +14,8 @@
   <string name="subtitle">Sometimes tolerance is not a virtue.</string>
   <string name="delete_crime">Delete Crime</string>
   <string name="time_picker_title" />
+  <string name="take">Take!</string>
 
+  <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
